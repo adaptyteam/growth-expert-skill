@@ -43,7 +43,6 @@ cp -R growth-expert-skill/ios-monetization-expert ~/.claude/skills/
 ```
 
 4. Restart Claude Code.
-```
 
 ## Data Coverage
 
