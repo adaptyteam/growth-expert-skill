@@ -34,7 +34,7 @@ When you ask monetization questions in Claude Code, this skill automatically act
 Or install directly from this repo:
 
 ```
-/install-skill https://github.com/Murat0901/growth-expert-skill/raw/main/ios-monetization-expert.skill
+/install-skill https://github.com/adaptyteam/growth-expert-skill/raw/main/ios-monetization-expert.skill
 ```
 
 ## Data Coverage
@@ -55,7 +55,7 @@ Regions covered: North America, Europe, APAC, LATAM, MEA with country-level brea
 
 ## Source
 
-All data is from the [Adapty State of In-App Subscriptions 2026](https://adapty.io/state-of-in-app-subscriptions-report/) report, covering 2025 transaction data. Revenue figures are net of App Store commission and taxes.
+All data is from the [Adapty State of In-App Subscriptions 2026](https://adapty.io/state-of-in-app-subscriptions-report/) report, covering 2025 transaction data.
 
 ## License
 
